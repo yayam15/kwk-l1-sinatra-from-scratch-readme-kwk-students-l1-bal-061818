@@ -38,6 +38,4 @@ Sinatra relies on Rack for its middleware. Middleware is software that bridges t
 
 Once your server is running, visit `localhost:9292` in the browser to see `Hello, World!` displayed.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-from-scratch-readme' title='Sinatra From Scratch'>Sinatra From Scratch</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-from-scratch-readme'>Sinatra from Scratch</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Sinatra From Scratch</p>
