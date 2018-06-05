@@ -16,8 +16,7 @@ local host server to view the application in the browser.
 ### Sinatra Gem
 
 This is not a lab, as there's nothing for you to submit. But to follow along
-with the lesson, make sure you fork and clone [this
-repository](https://github.com/learn-co-curriculum/sinatra-from-scratch-readme).
+with the lesson, make sure you fork and clone this repository before beginning. 
 
 It's important to note that Sinatra is just a gem. It's a library of code that
 developers wrote to allow us to build light-weight web applications quickly. If
