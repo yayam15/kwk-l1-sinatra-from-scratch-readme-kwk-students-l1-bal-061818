@@ -9,7 +9,7 @@ local host server to view the application in the browser.
 
 1. Review gems and how to keep them updated using `bundle install`
 2. Describe the purpose of the application controller and `app.rb` in Sinatra
-3. Run a Sinatra app by entering `rackup app.rb` in your terminal
+3. Run a Sinatra app by entering `rackup app/app.rb` in your terminal
 
 ## Basic Sinatra App
 
