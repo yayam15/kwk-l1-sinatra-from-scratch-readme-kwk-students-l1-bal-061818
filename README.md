@@ -32,9 +32,10 @@ created for you.
 
 ### `app.rb`
 
-The `app.rb` file is the heart and soul of a Sinatra application. This is our
-application controller. The application controller handles all incoming requests
-to our app, and sends back the appropriate responses to the client.
+The `app.rb` file is the heart and soul of a Sinatra application (located in our
+`app` directory). This is our application controller. The application controller
+handles all incoming requests to our app, and sends back the appropriate
+responses to the client.
 
 The first line of `app.rb` is just requiring the Sinatra gem so that we can
 incorporate its functionality.
