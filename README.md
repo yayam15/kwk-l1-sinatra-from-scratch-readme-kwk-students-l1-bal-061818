@@ -57,7 +57,7 @@ the connection between our Ruby application and the database. Because we have
 the Sinatra gem listed in our Gemfile, we automatically have the Rack middleware
 setup.
 
-Once your server is running, visit `localhost:9292` in the browser to see
+Once your server is running, visit `localhost:9292` (or whatever URL the in-browser Learn IDE has provided you with) in the browser to see
 `Hello, World!` displayed.
 
 <p data-visibility='hidden'>KWK-L1 Sinatra From Scratch</p>
