@@ -47,17 +47,20 @@ Inside our class we have a Sinatra method define our controller action. This
 method responds to a `GET` request to the root url and displays the text `Hello,
 World!` in the browser.
 
+
 ### Starting The App
 
-To actually check if our app is working in the browser, enter `rackup app.rb` in
-your terminal.
+To actually check if our app is working in the browser, enter `rackup
+app/app.rb` in your terminal. We are asking `rackup` to run the file at the
+provided path: `rackup <run_file>`.
 
 Sinatra relies on Rack for its middleware. Middleware is software that bridges
-the connection between our Ruby application and the database. Because we have
-the Sinatra gem listed in our Gemfile, we automatically have the Rack middleware
-setup.
+the connection between our applications and basic internet communication.
+Because we have the Sinatra gem listed in our Gemfile, we automatically have the
+Rack middleware setup.
 
-Once your server is running, visit `localhost:9292` (or whatever URL the in-browser Learn IDE has provided you with) in the browser to see
-`Hello, World!` displayed.
+Once your server is running, visit `localhost:9292` (or whatever URL the
+in-browser Learn IDE has provided you with) in the browser to see `Hello,
+World!` displayed.
 
 <p data-visibility='hidden'>KWK-L1 Sinatra From Scratch</p>
